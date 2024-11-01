@@ -1,6 +1,6 @@
 # AWS Virtual Machine Autoscaler and Load Balancer Project
 
-This project implements an autoscaling and load balancing infrastructure on AWS, designed to launch virtual machines dynamically based on traffic and resource demand. It also includes a monitoring setup where metrics for each machine are logged and stored in a database on AWS.
+This project implements an autoscaling and load balancing infrastructure on AWS, designed to launch virtual machines dynamically based on traffic and resource demand. It also includes a monitoring setup where metrics for each machine are logged and stored in a database on AWS. See project running here: https://youtu.be/7rdMOYZgqNg
 
 ## Overview
 
