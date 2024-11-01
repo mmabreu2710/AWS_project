@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<allVmInstances>
+  <vmInstance>
+    <instanceId>i-0f476928e1e3a1c7e</instanceId>
+    <instanceDns>ec2-3-22-75-235.us-east-2.compute.amazonaws.com</instanceDns>
+    <cpuLoad>-1.0</cpuLoad>
+  </vmInstance>
+  <vmInstance>
+    <instanceId>i-0990f57abf2b19c42</instanceId>
+    <instanceDns>ec2-3-143-24-19.us-east-2.compute.amazonaws.com</instanceDns>
+    <cpuLoad>93.91666666666666</cpuLoad>
+  </vmInstance>
+  <vmInstance>
+    <instanceId>i-0cc487fb70f91b3ee</instanceId>
+    <instanceDns>ec2-3-143-239-214.us-east-2.compute.amazonaws.com</instanceDns>
+    <cpuLoad>-1.0</cpuLoad>
+  </vmInstance>
+</allVmInstances>
+

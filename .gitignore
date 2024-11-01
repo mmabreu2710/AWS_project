@@ -1,0 +1,8 @@
+javassist/target/
+output/
+metrics.txt
+result.jpg
+result.txt
+raytracer/target/
+webserver/target/
+imageproc/target/
