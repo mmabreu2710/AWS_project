@@ -44,27 +44,27 @@ Performance metrics for each instance are stored in an AWS-hosted database. Metr
 ## Running the Project
 
 1. **Start the Load Balancer and Autoscaler**:
-   """
+   ```
    ./run_LBAndAS.sh
-   """
+   ```
    This command launches both the load balancer and autoscaler, starting the infrastructure management system.
 
 2. **Launch a New Virtual Machine**:
-   """
+   ```
    ./launch-vm.sh
-   """
+   ```
    This command deploys a new instance on AWS, configured to integrate with the load balancer.
 
 3. **Send an Image Processing Request**:
    To initiate an image processing task, send an HTTP request to the load balancer using one of the following:
    - Blur an image:
-     """
+     ```
      ./sendBlurImageRequest.sh
-     """
+     ```
    - Enhance an image:
-     """
+     ```
      ./sendEnhanceImageRequest.sh
-     """
+     ```
 
 ---
 
